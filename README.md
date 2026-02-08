@@ -1,4 +1,4 @@
-# asdf-git-issue
+# git-issue-asdf
 
 [git-issue](https://github.com/remenoscodes/git-issue) plugin for the [asdf version manager](https://asdf-vm.com).
 
@@ -9,7 +9,7 @@ Distributed issue tracking system built on Git.
 ### Plugin
 
 ```bash
-asdf plugin add git-issue https://github.com/remenoscodes/asdf-git-issue.git
+asdf plugin add git-issue https://github.com/remenoscodes/git-issue-asdf.git
 ```
 
 ### git-issue
@@ -49,7 +49,7 @@ Default: `https://github.com/remenoscodes/git-issue/releases/download/v{version}
 
 ```bash
 # Test installation locally
-asdf plugin test git-issue https://github.com/remenoscodes/asdf-git-issue.git \
+asdf plugin test git-issue https://github.com/remenoscodes/git-issue-asdf.git \
   "git-issue version"
 ```
 
@@ -69,4 +69,4 @@ GPL-2.0 - Same as git-issue
 ## Contributing
 
 Contributions welcome! Please open an issue or PR at:
-https://github.com/remenoscodes/asdf-git-issue
+https://github.com/remenoscodes/git-issue-asdf
